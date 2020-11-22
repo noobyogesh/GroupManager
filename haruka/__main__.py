@@ -20,17 +20,6 @@ from haruka.modules.helper_funcs.misc import paginate_modules
 from haruka.modules.translations.strings import tld, tld_help 
 from haruka.modules.connection import connected
 
-START_IMG = os.environ.get('START_IMG', None)
-
-if START_IMG is None:
-
-    img = "https://telegra.ph/file/4c1b792054bcb3be3cb0f.jpg"
-
-else:
-
-  img = START_IMG
-
-
 PM_START = """Hello {}, my name is {}!
 
 You know how hard it is sometimes to manage group so here is the solution for you
