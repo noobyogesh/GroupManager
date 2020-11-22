@@ -22,7 +22,7 @@ from haruka.modules.connection import connected
 
 PM_START = """Hello {}, my name is {}!
 
-You know how hard it is sometimes to manage group so here is the solution for you.\n\nI'm group manager bot and Anti-spam for RR Players🃏\n\nThis powerful Group manager bot was made by @Asur_Official\n\nActivate Anti-spam protection in your BM by this command : /antispam on \n\nClick /help or Help button below to find out more about how to use me to my full potential.\n\nAdd me to a group by clicking
+You know how hard it is sometimes to manage group so here is the solution for you.\n\nI'm group manager bot and Anti-spam for RR Players🃏\n\nThis powerful Group manager bot was made by @Asur_Official\n\nActivate Anti-spam protection in your BM by this command : /antispam on \n\nClick /help or Help button below to find out more about how to use me to my full potential.\n\nAdd me to a group by clicking [here](http://t.me/tg_Asur_groupmaneger_bot?startgroup=true).
 """
 
 
